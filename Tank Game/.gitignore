@@ -1,0 +1,25 @@
+# Compiled Class File
+*.class
+
+# Log File
+*.log
+
+# Mac
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# NetBeans
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+nbproject/private/*
+
+/Tank/TankGame/nbproject/private/
+/Tank/Tank/nbproject/private/
+/TankWorld/nbproject/private/
